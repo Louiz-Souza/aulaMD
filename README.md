@@ -21,7 +21,7 @@ exemplo de uso da estilização em tachado ~~Palavra~~ utiliza-se ~~
 
 Acesse o [google](https://www.google.com.br)
 
-1[Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0A_TZAhhUG_kOoK-3cOzzEVj6SCgXnQjNohEKsIy-xQ&s=10)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0A_TZAhhUG_kOoK-3cOzzEVj6SCgXnQjNohEKsIy-xQ&s=10)
 
 Exemplo de trecho de código:
 ``` javascript
@@ -35,4 +35,4 @@ function boasVindas(nome) {
 | html | Sim | Ativo |
 | MarkDown | Sim | Ativo |
 
-1[DOG](minecraft-pc-cheems-fishing-11vz3ovg99kms3dl.jpg)
+![DOG](minecraft-pc-cheems-fishing-11vz3ovg99kms3dl.jpg)
